@@ -55,6 +55,7 @@ If you look at the 2 boxes, the bottom of one box is above the top of the other 
 ```{r}
 favstats(VitC~Cult,data=veggy)
 ```
+The average amount of vitamin C and C39 method is 51.5 and the average amount in the C52 method is 64.4 which has the bigger average. The most revealing difference however is that the two boxes are disjoint. If you look at c39 3rd quartile which is the top of the box, it’s 54.75 but the c52 method, the first quartile is 58, which shows that the bottom of the c52 box is bigger that the top of the c39 box, displaying that the two places are disjoint from each other. The bottom of the c52 box is bigger than the top of the c39 box, indicating that there is a vast contrast in numerical values as one amount is more significant than the other.   
 
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
