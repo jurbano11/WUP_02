@@ -67,9 +67,12 @@ The average amount of vitamin C and C39 method is 51.5 and the average amount in
 ```{r}
 t.test(VitC~Cult,data=veggy)
 ```
-The chances of getting the result that we got is .000000003405 , which is an incredibaly small number. The comparison between c39 and c52 the vitamin is very low.it is very possible that it might happen but a low chance. The hypothesis is to be rejected.
+The chances of getting the result that we got is .000000003405 , which is an incredibly small number. The comparison between c39 and c52 the vitamin is very low. It is very possible that it might happen but a low chance. The hypothesis is to be rejected.
 
 
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+Today we created a box plot with the help of chat GPT to generate the code for the box plot. We then learned how to read the data to add commentary about the findings and readings we got from the chat GPT boxplots. This way we were able to read the Ttest result and explain it in simple terms that anyone can also understand.
+
